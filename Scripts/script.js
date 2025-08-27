@@ -13,4 +13,4 @@ const listaItens = document.getElementsByTagName('li');
 console.log(listaItens);
 
 const botao = document.getElementById('btn');
-botao.addEventListener('click', function() {alert("Você clicou no botão")});
+botao.addEventListener('click', function() {alert("Você clicou no botão!")});
